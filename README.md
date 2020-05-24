@@ -1,2 +1,3 @@
 # hello-world
-Beginning
+
+Just starting or learning something new.
